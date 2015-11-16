@@ -1,0 +1,76 @@
+
+#entete {
+background-color: rgba(0, 0, 0, 0.7);
+position: center;
+margin: 40px;
+height: 120x;
+
+}
+
+h1 {
+text-align: center;
+color: white;
+font-size: 45px;
+opacity:0.8;
+}
+
+.imgg {
+
+width: 300px;
+height: 350px;
+margin-left: 75px;
+float:left;
+}
+
+
+
+#bkgd-text {
+background-color: rgba(0, 0, 0, 0.5);
+margin-left:425px;
+margin-right:450px;
+height:350px;
+width:500px;
+
+}
+
+.presentation {
+color: white;
+padding-top:30px;
+text-align:center;
+opacity:0.8;
+}
+
+.imgd {
+width: 300px;
+height: 375px;
+margin-right:35px;
+position:absolute;;
+left:980px;
+top:130px;
+}
+
+#bkgd {
+background-image: url("https://farm5.staticflickr.com/4091/5062867695_b7ce12db17_o_d.jpg");
+}
+
+#banniere_video {
+margin-top:100px;
+background-color: rgba(0, 0, 0, 0.7);
+height:50px;
+width:350px;
+margin-left:500px;
+
+}
+
+
+.titre_video {
+text-align: center;
+color: white;
+padding-top:8px;
+}
+
+
+iframe {
+margin-left:360px;
+margin-top:30px;
+}

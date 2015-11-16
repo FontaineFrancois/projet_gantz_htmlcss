@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+ <head>
+   <link type="text/css" rel="stylesheet" href="stylesheet-gantz.css"/>
+
+   <title>
+     Projet Gantz
+   </title>
+   <meta charset="utf-8">
+   <meta name="description" content="Gantz et Oku" />
+ </head>
+
+<body id="bkgd">
+
+<header id="entete">
+
+
+        <h1> Le monde de Gantz et d'Oku </h1>
+</header>
+
+<div>
+
+<div>
+      <img class="imgg" src="http://blog.lefigaro.fr/bd/Gantz-manga.jpg">
+</div>
+
+<div id="bkgd-text">
+<p class="presentation">
+Gantz (Japanese: ガンツ Hepburn: Gantsu?) is a Japanese manga series written and illustrated by Hiroya Oku. <br>
+Gantz tells the story of Kei Kurono and Masaru Kato, both whom died in a train accident and become part of a semi-posthumous <br>
+"game" in which they and several other recently deceaed people are forced to hunt down and kill aliens armed with a handful of futuristic items, equipment, and weaponry. <br>
+Both the manga and anime are noted for their heavy violence and sexual content. <br>
+The Gantz anime adaptation, directed by Ichiro Itano and animated by Gonzo, contains 26 episodes divided into two seasons. <br>
+A series of two live action movies based on the manga were produced and released in January–April 2011. <br>
+</p>
+</div>
+
+
+<div>
+       <img class="imgd" src="https://s-media-cache-ak0.pinimg.com/736x/8d/4f/b6/8d4fb69195b1820ce3183b136bcf4340.jpg">
+</div>
+
+</div>
+
+<div id="banniere_video">
+<h2 class="titre_video">
+
+         L'opening de l'anime
+</h2>
+</div>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/diEGZcHWL7g?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+
+<footer>
+
+  <nav>
+
+    <ul>
+
+             <ul>
+                   <li><a href="https://fr.wikipedia.org/wiki/Berserk_%28manga%29">Mentions légales</a></li>
+                   <li><a href="https://fr.wikipedia.org/wiki/Berserk_%28manga%29">Nous contacter</a></li>
+                   <li><a href="https://fr.wikipedia.org/wiki/Berserk_%28manga%29">L'auteur</a></li>
+              </ul>
+</li>
+
+<li><a href="https://fr.wikipedia.org/wiki/Berserk_%28manga%29">Actu</a></li>
+
+<li><a href="https://fr.wikipedia.org/wiki/Berserk_%28manga%29">Tomes parus</a></li>
+
+</ul>
+  </nav>
+
+</footer>
+
+</body>
+
+
+ <html>
